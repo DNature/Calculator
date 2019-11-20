@@ -1,0 +1,15 @@
+{
+	"name": "calculator",
+	"version": "1.0.0",
+	"description": "HTML, CSS & Javascript simple calculator",
+	"homepage": "https://dnature.github.io/Calculator",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d dist"
+	},
+	"author": "Divine Nature",
+	"license": "MIT",
+	"dependencies": {
+		"gh-pages": "^2.0.1"
+	}
+}
